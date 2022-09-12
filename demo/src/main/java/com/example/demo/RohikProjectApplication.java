@@ -8,6 +8,7 @@ public class RohikProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RohikProjectApplication.class, args);
+		System.out.println("Change");
 	}
 
 }
